@@ -2,6 +2,9 @@
 
 Welcome to the Time Tracking App! This README provides instructions on how to run the app.
 
+![ac](https://github.com/Amanuealnegussie/time-tracker/assets/135860412/32517499-da93-4097-a5ff-b512f7f98fb0)
+
+
 ## Contents
 
 - [Prerequisites](#prerequisites)
