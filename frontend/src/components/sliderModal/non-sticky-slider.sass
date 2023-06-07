@@ -1,0 +1,16 @@
+.non-sticky-slider
+  margin-left: auto
+  .slide-pane__content
+    padding: 0 
+    background: #fafafa
+
+  //slide from bottom 
+  &.slide-pane_from_bottom
+    background: red
+    //height: auto
+    margin-top: 100vh
+    &.content-after-open
+      transform: translateY(-100%)
+    &.content-before-close
+      transform: translateY(0%)
+    
